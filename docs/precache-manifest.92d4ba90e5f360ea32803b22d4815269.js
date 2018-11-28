@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "img/SYS.6eb7f222.svg"
   },
   {
-    "revision": "162aa6076e092c375936",
+    "revision": "b5f69c17bfaed8377ad5",
     "url": "css/app.65145387.css"
   },
   {
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "js/about.37b7a025.js"
   },
   {
-    "revision": "162aa6076e092c375936",
-    "url": "js/app.7be5036b.js"
+    "revision": "b5f69c17bfaed8377ad5",
+    "url": "js/app.64fa05ac.js"
   },
   {
     "revision": "a741154ec67c4e0cc0d7ab58569284d4",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
     "url": "img/ETH.67692810.svg"
   },
   {
-    "revision": "a905f01fe95cfe534cb7fa517c784312",
+    "revision": "c8bf2e5878298facd596fbf0ce33ced1",
     "url": "index.html"
   },
   {
