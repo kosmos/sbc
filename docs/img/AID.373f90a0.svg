@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .icon_AID_a {
+        fill: #d8d8d8;
+        opacity: 0;
+      }
+
+      .icon_AID_b {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="icon_AID_a" width="30" height="30" />
+  <path class="icon_AID_b" d="M13.467,18.534,8.733,7.568,4,18.534H0L8,0H9.467l8,18.534Z" transform="translate(6.267 4.533)" />
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="icon_VTC__Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_VTC__icons" transform="translate(-60.000000, -202.000000)">
+            <g id="icon_VTC__VTC" transform="translate(60.000000, 202.000000)">
+                <path d="M15.7189707,24.3133199 C15.4334006,24.5514632 15.19778,24.6705348 15.012109,24.6705348 C14.7108981,24.6569122 14.426337,24.5206862 14.2280525,24.2936428 L12.1422805,21.5282543 C20.5146317,9.55449041 24.7008073,3.56760848 24.7008073,3.56760848 C25.8703068,4.52253616 26.9051201,5.7354524 27.8052472,7.20635721 L15.7189707,24.3133199 Z" id="icon_VTC__Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <path d="M5.09334006,13.1594349 L6.19828456,14.6246216 L3.7764884,14.623108 L5.09334006,13.1594349 Z M5.50655903,12.6841574 L11.4339051,12.6841574 L14.6715439,16.9026236 L11.7805247,21.0408678 L5.47628658,12.7189707 L5.50655903,12.6841574 Z" id="icon_VTC__Combined-Shape" fill-opacity="0.8" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

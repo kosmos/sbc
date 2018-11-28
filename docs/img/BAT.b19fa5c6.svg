@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .icon_BAT_a {
+        opacity: 0;
+        fill: url(#a);
+      }
+
+      .icon_BAT_b {
+        fill: rgba(255, 255, 255, 0.6);
+      }
+
+      .icon_BAT_c {
+        fill: rgba(255, 255, 255, 0.8);
+      }
+
+      .icon_BAT_d {
+        fill: #fff;
+      }
+
+    </style>
+    <linearGradient id="icon_BAT_a" x1="0.802" y1="0.089" x2="0.188" y2="0.886" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00fed5" />
+      <stop offset="1" stop-color="#00957d" />
+    </linearGradient>
+  </defs>
+  <rect class="icon_BAT_a" width="30" height="30" />
+  <g transform="translate(5 4)">
+    <path class="icon_BAT_b" d="M0,3.37H0l0,0L5.92,0h8.234L20,3.347Z" transform="translate(0 13.819)" />
+    <path class="icon_BAT_c" d="M9.951,17.167l0,0L4.1,13.819,0,6.993,0,0,9.949,17.163Z" transform="translate(10.049 0)" />
+    <path class="icon_BAT_d" d="M0,17.19l0,0L10.051,0l0,6.992-.021-.035L5.92,13.819,0,17.188Z" transform="translate(0 0)" />
+  </g>
+</svg>

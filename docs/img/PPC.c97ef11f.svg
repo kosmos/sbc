@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .icon_PPC__a {
+        fill: none;
+      }
+
+      .icon_PPC__b {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="icon_PPC__a" width="30" height="30" />
+  <g transform="translate(7.971 7)">
+    <path class="icon_PPC__b" d="M0,0C11.145.4,15.442,6.879,13.285,12.662a6.239,6.239,0,0,1-2.627,3.407c.056-.232.113-.465.156-.7.808-4.512-.723-9.94-8.213-12.939,5.959,3.436,8.363,9.548,5.585,13.494C3.457,16.642,0,12.729,0,8.221Z"
+      transform="translate(0.802 0.042)" />
+  </g>
+</svg>

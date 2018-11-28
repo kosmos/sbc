@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .icon_DAI_a {
+        fill: none;
+      }
+
+      .icon_DAI_b {
+        fill: rgba(255, 255, 255, 0.4);
+      }
+
+      .icon_DAI_c {
+        fill: rgba(255, 255, 255, 0.35);
+      }
+
+      .icon_DAI_d {
+        fill: rgba(255, 255, 255, 0.7);
+      }
+
+      .icon_DAI_e {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="icon_DAI_a" width="30" height="30" />
+  <path class="icon_DAI_b" d="M11.472,0,22.944,11.472,11.472,22.944,0,11.472Z" transform="translate(3.511 3.262)" />
+  <path class="icon_DAI_b" d="M11.481,15.216,0,11.472,11.481,0,22.963,11.472Z" transform="translate(3.502 3.262)" />
+  <path class="icon_DAI_c" d="M0,22.943V0L11.472,11.472,0,22.943Z" transform="translate(14.983 3.262)" />
+  <path class="icon_DAI_d" d="M0,8.361H5.242l2.246-2.5V0Z" transform="translate(7.495 5.623)" />
+  <path class="icon_DAI_e" d="M0,5.865l2.5,2.5H7.737L0,0Z" transform="translate(14.983 5.623)" />
+</svg>

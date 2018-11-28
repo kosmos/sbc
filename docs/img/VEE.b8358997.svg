@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .icon_VEE__a {
+        fill: none;
+      }
+
+      .icon_VEE__b {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="icon_VEE__a" width="30" height="30" />
+  <g transform="translate(8 9)">
+    <path class="icon_VEE__b" d="M.022.29A.2.2,0,0,1,.2,0H3.793A.4.4,0,0,1,4.15.221L8.9,9.713a.4.4,0,0,1-.013.381L6.973,13.358a.2.2,0,0,1-.351-.011Z"
+      transform="translate(0.96 0)" />
+    <circle class="icon_VEE__b" cx="2.5" cy="2.5" r="2.5" transform="translate(10)" />
+  </g>
+</svg>

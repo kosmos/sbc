@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .icon_FYP__a {
+        fill: none;
+      }
+
+      .icon_FYP__b {
+        fill: #fff;
+      }
+
+      .icon_FYP__c {
+        fill: rgba(255, 255, 255, 0.6);
+      }
+    </style>
+  </defs>
+  <rect class="icon_FYP__a" width="30" height="30" />
+  <g transform="translate(8 8)">
+    <path class="icon_FYP__b" d="M.1,2.4A2.249,2.249,0,0,1,.762.7,2.04,2.04,0,0,1,2.381,0H10L8.667,2.5h-6.1V5.7H6.952L5.429,8.3H2.476v3.2H3.714L2.381,14H0V2.4Z" />
+    <path class="icon_FYP__c" d="M10,11.6a2.238,2.238,0,0,1-.673,1.7,2.069,2.069,0,0,1-1.635.7H0l1.346-2.5H7.5V8.3H3.077L4.519,5.7H7.5V2.5H6.25L7.6,0H10Z"
+      transform="translate(5)" />
+  </g>
+</svg>

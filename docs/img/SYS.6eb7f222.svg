@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .icon_SYS__a {
+        fill: none;
+      }
+
+      .icon_SYS__b {
+        fill: #fff;
+      }
+
+      .icon_SYS__c {
+        fill: rgba(255, 255, 255, 0.8);
+      }
+
+      .icon_SYS__d {
+        fill: rgba(255, 255, 255, 0.6);
+      }
+    </style>
+  </defs>
+  <rect class="icon_SYS__a" width="30" height="30" />
+  <g transform="translate(3 8)">
+    <path class="icon_SYS__b" d="M14.626,0C25.56,2.061,10.684,13.631,0,3.157c12.6,8.4,19.091.506,14.531-2.941a.121.121,0,0,1-.024-.169A.119.119,0,0,1,14.626,0Z"
+      transform="translate(0 5.533)" />
+    <path class="icon_SYS__c" d="M3.849,0C-5.612,3.152,5.227,10.589,6.168,6.832a.122.122,0,0,0-.154-.146C4.623,7.157-3.046,4.924,3.849,0Z"
+      transform="translate(4.691 0.928)" />
+    <path class="icon_SYS__b" d="M17.84,2.822C9.649-3.263-5.723,1.755,2.207,6.051A.121.121,0,0,0,2.37,6a.123.123,0,0,0,0-.107C-.851-1.2,15.529.956,17.84,2.822Z"
+      transform="translate(7.151 0)" />
+    <path class="icon_SYS__d" d="M5.066,8.778C9.4,6.726,5.874-.293.147,1.063A.121.121,0,0,1,0,.971.119.119,0,0,1,.044.852C4.5-2.638,12.867,5.507,5.066,8.778Z"
+      transform="translate(13.128 2.887)" />
+  </g>
+</svg>

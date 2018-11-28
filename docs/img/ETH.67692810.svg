@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .icon_ETH__a {
+        fill: none;
+      }
+
+      .icon_ETH__b {
+        fill: #fff;
+      }
+
+      .icon_ETH__c {
+        fill: rgba(255, 255, 255, 0.6);
+      }
+
+      .icon_ETH__d {
+        fill: rgba(255, 255, 255, 0.35);
+      }
+
+      .icon_ETH__e {
+        fill: rgba(255, 255, 255, 0.8);
+      }
+    </style>
+  </defs>
+  <rect class="icon_ETH__a" width="30" height="30" />
+  <g transform="translate(9 6)">
+    <path class="icon_ETH__b" d="M5.651,6.531V0a.333.333,0,0,0-.284.161L.009,9A.035.035,0,0,0,0,9.03.207.207,0,0,1,.047,9Z"
+      transform="translate(0.121 0.436)" />
+    <path class="icon_ETH__c" d="M0,6.531V0A.333.333,0,0,1,.284.161S5.67,9.03,5.651,9.03Z" transform="translate(5.772 0.436)" />
+    <path class="icon_ETH__d" d="M5.6,2.47,0,0V6.19a.12.12,0,0,0,.057-.009L5.518,2.9a.347.347,0,0,0,.161-.265A.217.217,0,0,0,5.641,2.5C5.641,2.489,5.622,2.48,5.6,2.47Z"
+      transform="translate(5.772 6.967)" />
+    <path class="icon_ETH__b" d="M0,0,5.452,7.213a.233.233,0,0,0,.18.085V3.351Z" transform="translate(0.14 10.554)" />
+    <path class="icon_ETH__c" d="M.17,7.222,5.613,0,0,3.37H0V7.317A.19.19,0,0,0,.17,7.222Z" transform="translate(5.772 10.545)" />
+    <path class="icon_ETH__e" d="M5.687,0,.083,2.47C.065,2.48.055,2.489.036,2.5a.328.328,0,0,0,.1.416l5.48,3.266c.019,0,.038.009.066.009Z"
+      transform="translate(0.085 6.967)" />
+  </g>
+</svg>

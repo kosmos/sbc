@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .icon_DASH_a {
+        fill: none;
+      }
+
+      .icon_DASH_b {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="icon_DASH_a" width="30" height="30" />
+  <g transform="translate(5.175 9.21)">
+    <path class="icon_DASH_b" d="M19.167,1.834A2.155,2.155,0,0,0,18.879.88,1.366,1.366,0,0,0,18.15.226,2.153,2.153,0,0,0,17.124,0H3.81L2.856,2.86H14.919L13.014,8.7H.954L0,11.563H13.377a3.7,3.7,0,0,0,1.167-.225,7.887,7.887,0,0,0,1.167-.729,5.74,5.74,0,0,0,.954-.954,6.483,6.483,0,0,0,.588-1.1L19.02,3a2.061,2.061,0,0,0,.147-1.164Z"
+      transform="translate(0.447 0.008)" />
+    <path class="icon_DASH_b" d="M8.052,0H.954L0,2.643H7.17Z" transform="translate(0.006 4.464)" />
+  </g>
+</svg>
