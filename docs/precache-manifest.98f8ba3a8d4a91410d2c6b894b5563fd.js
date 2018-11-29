@@ -12,12 +12,12 @@ self.__precacheManifest = [
     "url": "img/SYS.6eb7f222.svg"
   },
   {
-    "revision": "199a247b734e04f471a0",
-    "url": "css/app.07f4e36f.css"
+    "revision": "54d8e1485188bfeaa749",
+    "url": "css/app.f9c0447b.css"
   },
   {
-    "revision": "397d18fa971734eb91fb",
-    "url": "js/chunk-vendors.6eaaf72b.js"
+    "revision": "9c44e0a7ad7f4a3777e8",
+    "url": "js/chunk-vendors.f2dc77b4.js"
   },
   {
     "revision": "a96f0b36b60db5d2fc6b734e1bf8b357",
@@ -26,10 +26,6 @@ self.__precacheManifest = [
   {
     "revision": "881ee56683b0422dde7319a8febb3a33",
     "url": "img/calc-bg.881ee566.jpg"
-  },
-  {
-    "revision": "0f17b25aad821761521d2d8b22d39761",
-    "url": "img/token.0f17b25a.jpg"
   },
   {
     "revision": "1d2c82f9caff304fe2b5dd1d72209630",
@@ -54,6 +50,10 @@ self.__precacheManifest = [
   {
     "revision": "5c7d040943470ac1ff06937e1e717889",
     "url": "fonts/Gilmer-Light.5c7d0409.woff2"
+  },
+  {
+    "revision": "0f17b25aad821761521d2d8b22d39761",
+    "url": "img/token.0f17b25a.jpg"
   },
   {
     "revision": "b83589973e555afdd951415632737ff5",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "js/about.37b7a025.js"
   },
   {
-    "revision": "199a247b734e04f471a0",
-    "url": "js/app.dee4e0eb.js"
+    "revision": "54d8e1485188bfeaa749",
+    "url": "js/app.3f3fd8d3.js"
   },
   {
     "revision": "a741154ec67c4e0cc0d7ab58569284d4",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
     "url": "img/ETH.67692810.svg"
   },
   {
-    "revision": "96fd990977fc7cf63688a83a6cfc1989",
+    "revision": "3e657627b0a6bd8a65d17ef2aa0cfff3",
     "url": "index.html"
   },
   {
