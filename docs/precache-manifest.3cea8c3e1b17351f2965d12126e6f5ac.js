@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "img/SYS.6eb7f222.svg"
   },
   {
-    "revision": "54d8e1485188bfeaa749",
-    "url": "css/app.f9c0447b.css"
+    "revision": "c0f352365afc2a5b9e0b",
+    "url": "css/app.68b965c2.css"
   },
   {
     "revision": "9c44e0a7ad7f4a3777e8",
@@ -92,8 +92,8 @@ self.__precacheManifest = [
     "url": "js/about.37b7a025.js"
   },
   {
-    "revision": "54d8e1485188bfeaa749",
-    "url": "js/app.3f3fd8d3.js"
+    "revision": "c0f352365afc2a5b9e0b",
+    "url": "js/app.b129099a.js"
   },
   {
     "revision": "a741154ec67c4e0cc0d7ab58569284d4",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
     "url": "img/ETH.67692810.svg"
   },
   {
-    "revision": "3e657627b0a6bd8a65d17ef2aa0cfff3",
+    "revision": "79f54931b5fb01e48e8a31290cb5d32b",
     "url": "index.html"
   },
   {
